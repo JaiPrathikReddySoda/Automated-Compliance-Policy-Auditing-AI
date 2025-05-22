@@ -1,8 +1,4 @@
-# Policy Auditor
-
-[![CI](https://github.com/yourusername/audit-ai/actions/workflows/ci.yml/badge.svg)](https://github.com/yourusername/audit-ai/actions/workflows/ci.yml)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Docker Image Size](https://img.shields.io/docker/image-size/ghcr.io/yourusername/audit-ai/latest)](https://ghcr.io/yourusername/audit-ai)
+# Policy Audito
 
 A powerful policy document Q&A system using DeBERTa-v3 and FAISS for semantic search.
 
